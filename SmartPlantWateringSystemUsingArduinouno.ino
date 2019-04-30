@@ -2,6 +2,10 @@
 *Smart Plant Watering System main module
 *SmartPlantWateringSystemUsingArduinouno.ino    create on: 28/10/2018
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
+*
+*For more detail please visit:https://www.arduinounomagic.com/2018/10/smart-plant-watering-system-using.html
+*
+*for more projects please visit://www.arduinounomagic.com
 */
 
 #define WATERPUMP 13 //pump connected to pin 13
